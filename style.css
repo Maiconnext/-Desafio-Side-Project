@@ -4,9 +4,7 @@ body{
 table{
 	width: 100%;
 }
-th{
-	height: 	50px;
-	text-align: center;
-	font-family: monospace;
-	font-size: 30px;
+.cabecalho{
+	display: flex;
+	justify-content: space-around;
 }
